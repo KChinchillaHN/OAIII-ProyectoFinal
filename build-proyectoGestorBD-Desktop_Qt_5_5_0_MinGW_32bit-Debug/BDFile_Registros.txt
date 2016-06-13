@@ -1,0 +1,1 @@
+2_2_6_IDE_abcd1_STR_Kevin               -STR_Chinchilla          -INT_21-CHR_S-CHR_M-IDE_abcd2-STR_Josue               -STR_Pacheco             -INT_22-CHR_C-CHR_M-2_3_IDE_efgh1-STR_El Jefe             -INT_25698-IDE_efgh2-STR_El Jefe             -INT_20698-

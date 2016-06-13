@@ -1,0 +1,1 @@
+2_6KF_Empleado         IDENombre              STRApellido            STREdad                INTGenero              CHRE_Civil             CHR_3KF_Planilla         IDEPosicion            STRSueldo              INT
